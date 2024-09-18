@@ -25,8 +25,4 @@ Full Stack Web developer and Learner
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Harshithk1402"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Harshithk1402&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Harshithk1402" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithk1402&langs_count=10&title_color=000000&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
